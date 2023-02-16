@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awayneff
-- 👀 I’m interested in a wide range of IT things
-- 🌱 I’m currently learning Java, JavaFX, web stuff
+- 👀 I’m interested in backend development and cybersecurity
+- 🌱 I’m currently learning web, python, big data
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me? I guess by GitHub messages for now
 
