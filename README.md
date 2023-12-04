@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @awayneff
-- 👀 I’m interested in backend development and cybersecurity
-- 🌱 I’m currently learning web, python, big data
+- 👀 I’m interested in software development and cybersecurity
 - 💞️ I’m looking to collaborate on exciting projects
 
 <!---
